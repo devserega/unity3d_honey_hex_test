@@ -1,0 +1,50 @@
+# Папки и файлы сборки Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+*.stacktrace
+
+# Системные файлы кэширования Unity
+# Папка с кешем кэшированных пакетов UPM
+[Ll]ibrary/PackageCache/
+# Настройки EditorUserSettings и личные метаданные
+UserSettings/
+
+# Автогенерируемые файлы и метаданные
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+
+# Папка для настроек, локальных для IDE
+.vscode/
+.idea/
+.vscode/settings.json
+
+# Конфигурации ОС и платформ
+.DS_Store
+Thumbs.db
+
+# Логи
+*.log
+*.tlog
+
+# Плагины для платформы
+[Tt]humbs.db
+*.DS_Store
+
+# Файлы для сборки и релизов
+*.apk
+*.aab
+*.xcodeproj/
+*.xcworkspace/
+
+# Git Hooks
+.git/hooks/
